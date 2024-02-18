@@ -1,4 +1,4 @@
-# Real-Time Weather Application
+# Real-Time Weather Application - (Switch to Master Branch to view full code)
 Welcome to the Real-Time Weather Application! This application allows users to check the current weather conditions in real-time for any location around the world.
 
 ## Features
