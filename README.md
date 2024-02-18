@@ -16,7 +16,7 @@ Welcome to the Real-Time Weather Application! This application allows users to c
 
 
  <p align="center">
-  View <a href="https://master.d2gxbs6vwhkz68.amplifyapp.com/">Live demo</a>.
+  View <a href="https://wondrous-sawine-1265c1.netlify.app/">Live demo</a>.
  </p>
 
 ## Setup
